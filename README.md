@@ -1,4 +1,4 @@
-# Voi Casino Miner
+# Voi Casino (Demo) Miner
 
 A mining tool for Voi Casino.
 
